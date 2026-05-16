@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Adivina el número</title>
+  </head>
+  <body id="body">
+    <div id="start" style="display: block">
+      <h1>Bienvenido al juego de adivinar el número</h1>
+      <p>Por favor, ingresa tu nombre:</p>
+      <input type="text" id="nombre" />
+      <p>selecciona un nivel de dificultad:</p>
+      <select id="dificultad">
+        <option value="facil">Fácil</option>
+        <option value="medio">Medio</option>
+        <option value="dificil">Difícil</option>
+      </select>
+      <button id="startGame">Empezar Juego</button>
+    </div>
+
+    <div id="game" style="display: none;">
+      <div id="header">
+        <h1>Adivina el número</h1>
+        <h3 id="bienvenida">Hola</h3>
+      </div>
+      <div id="main">
+        <p id="main-txt">La computadora ha generado un número entre 1 y 100. ¡Adivínalo!</p>
+        <input type="number" id="numero" />
+        <button id="adivinar">Adivinar</button>
+        <p id="mensaje"></p>
+        <button id="reiniciar">Reiniciar</button>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
