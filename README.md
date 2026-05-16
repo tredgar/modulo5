@@ -15,6 +15,14 @@
 ## Se hicieron cambios de diseño y se agrego un color diferente para cada nivel de dificultad, ahora da la bienvenida con el nombre que inserto el usuario.
 
 ## Ademas de agregar un botón para reiniciar el juego.
+
+NIVEL FACIL
 <img width="1683" height="992" alt="image" src="https://github.com/user-attachments/assets/8149fbb8-61fb-475c-a68e-fa4c3b86d99b" />
+
+NIVEL MEDIO
+<img width="1623" height="977" alt="image" src="https://github.com/user-attachments/assets/69e9d224-37cb-451f-b2e4-f6781fc1ca7c" />
+
+NIVEL DIFICIL
+<img width="1518" height="986" alt="image" src="https://github.com/user-attachments/assets/8bf5a75d-efe4-427e-a2a2-8e5b865b7553" />
 
 
